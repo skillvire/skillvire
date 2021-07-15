@@ -1051,3 +1051,4 @@ exit(0);
 1626379681_0579:"Notice: admin, 127.0.0.1; Media file added; ID: 3953; name: static-html-output-plugin-6.6.21.zip; type: "
 1626379687_0938:"Warning: admin, 127.0.0.1; Post deleted: (multiple entries): Post id: 3953"
 1626379756_664:"Warning: admin, 127.0.0.1; Plugin activated: Static HTML Output (v6.6.21; static-html-output-plugin\/static-html-output-plugin.php)"
+1626380819_5253:"Warning: admin, 127.0.0.1; Plugin activated: Simply Static (v2.1.4.2; simply-static\/simply-static.php)"
