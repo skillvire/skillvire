@@ -5,7 +5,16 @@
 	<title>Log In &lsaquo; SKILLVIRE &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="dashicons-css" href="./wp-includes/css/dashicons.min.css?ver=5.7.2" media="all">
+		<script>
+			/* <![CDATA[ */
+			var rcewpp = {
+				"ajax_url":"./wp-admin/admin-ajax.php",
+				"nonce": "bcd0781ee5",
+				"home_url": "."
+			};
+			/* ]]\> */
+		</script>
+		<link rel="stylesheet" id="dashicons-css" href="./wp-includes/css/dashicons.min.css?ver=5.7.2" media="all">
 <link rel="stylesheet" id="buttons-css" href="./wp-includes/css/buttons.min.css?ver=5.7.2" media="all">
 <link rel="stylesheet" id="forms-css" href="./wp-admin/css/forms.min.css?ver=5.7.2" media="all">
 <link rel="stylesheet" id="l10n-css" href="./wp-admin/css/l10n.min.css?ver=5.7.2" media="all">
