@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; SKILLVIRE</title>
-	<atom:link href="https://skillvire.github.io/skillvire/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>https://skillvire.github.io/skillvire</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Online Education &#38; Research Guidance</description>
 	<lastBuildDate>Thu, 11 Mar 2021 14:34:13 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://skillvire.github.io/skillvire/wp-content/uploads/2021/04/cropped-logo-32x32.jpg</url>
+	<url>./../../../wp-content/uploads/2021/04/cropped-logo-32x32.jpg</url>
 	<title>Uncategorized &#8211; SKILLVIRE</title>
-	<link>https://skillvire.github.io/skillvire</link>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>https://skillvire.github.io/skillvire/2021/03/11/hello-world/</link>
-					<comments>https://skillvire.github.io/skillvire/2021/03/11/hello-world/#respond</comments>
+		<link>./../../../2021/03/11/hello-world/index.html</link>
+					<comments>./../../../2021/03/11/hello-world/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 11 Mar 2021 14:34:13 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://skillvire.github.io/skillvire/?p=1</guid>
+		<guid isPermaLink="false">./../../../index.html?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://skillvire.github.io/skillvire/2021/03/11/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../2021/03/11/hello-world/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

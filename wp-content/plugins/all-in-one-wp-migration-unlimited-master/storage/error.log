@@ -1,3 +1,0 @@
-Jul 15 2021 20:01:08
-{"type":2,"message":"fopen(C:\\wamp64\\www\\skillvire\/\/C:\/wamp64\/www\/skillvire\/wp-content\/uploads\/sucuri\/.htaccess): failed to open stream: No such file or directory","file":"C:\\wamp64\\www\\skillvire\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":98}
-
