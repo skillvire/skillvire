@@ -12,10 +12,10 @@
 <link rel="stylesheet" id="login-css" href="https://skillvire.github.io/skillvire/wp-admin/css/login.min.css?ver=5.7.2" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
-	<link rel="icon" href="https://skillvire.github.io/skillvire/wp-content/uploads/2021/04/cropped-logo-32x32.jpg" sizes="32x32">
-<link rel="icon" href="https://skillvire.github.io/skillvire/wp-content/uploads/2021/04/cropped-logo-192x192.jpg" sizes="192x192">
-<link rel="apple-touch-icon" href="https://skillvire.github.io/skillvire/wp-content/uploads/2021/04/cropped-logo-180x180.jpg">
-<meta name="msapplication-TileImage" content="https://skillvire.github.io/skillvire/wp-content/uploads/2021/04/cropped-logo-270x270.jpg">
+	<link rel="icon" href="https://skillvire.github.io/skillvire/wp-content/uploads/2021/07/cropped-siteicon-32x32.png" sizes="32x32">
+<link rel="icon" href="https://skillvire.github.io/skillvire/wp-content/uploads/2021/07/cropped-siteicon-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://skillvire.github.io/skillvire/wp-content/uploads/2021/07/cropped-siteicon-180x180.png">
+<meta name="msapplication-TileImage" content="https://skillvire.github.io/skillvire/wp-content/uploads/2021/07/cropped-siteicon-270x270.png">
 	</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-en-us">
 	<script type="text/javascript">
@@ -89,7 +89,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/skillvire\/wp-admin\/admin-ajax.php"}};
 </script>
 <script src="https://skillvire.github.io/skillvire/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"ac34e9c4c6"};
+var userProfileL10n = {"user_id":"0","nonce":"8dcc8e6ff7"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {
