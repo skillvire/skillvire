@@ -5,11 +5,11 @@
 	<title>Log In &lsaquo; SKILLVIRE &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="dashicons-css" href="https://skillvire.ga/wp-includes/css/dashicons.min.css?ver=5.8" media="all">
-<link rel="stylesheet" id="buttons-css" href="https://skillvire.ga/wp-includes/css/buttons.min.css?ver=5.8" media="all">
-<link rel="stylesheet" id="forms-css" href="https://skillvire.ga/wp-admin/css/forms.min.css?ver=5.8" media="all">
-<link rel="stylesheet" id="l10n-css" href="https://skillvire.ga/wp-admin/css/l10n.min.css?ver=5.8" media="all">
-<link rel="stylesheet" id="login-css" href="https://skillvire.ga/wp-admin/css/login.min.css?ver=5.8" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://skillvire.ga/wp-includes/css/dashicons.min.css?ver=5.8.2" media="all">
+<link rel="stylesheet" id="buttons-css" href="https://skillvire.ga/wp-includes/css/buttons.min.css?ver=5.8.2" media="all">
+<link rel="stylesheet" id="forms-css" href="https://skillvire.ga/wp-admin/css/forms.min.css?ver=5.8.2" media="all">
+<link rel="stylesheet" id="l10n-css" href="https://skillvire.ga/wp-admin/css/l10n.min.css?ver=5.8.2" media="all">
+<link rel="stylesheet" id="login-css" href="https://skillvire.ga/wp-admin/css/login.min.css?ver=5.8.2" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
 	<link rel="icon" href="https://skillvire.ga/wp-content/uploads/2021/07/cropped-siteicon-32x32.png" sizes="32x32">
@@ -80,14 +80,14 @@ var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", { "locale_data": { "messages": { "": {} } } } );
 </script>
-<script src="https://skillvire.ga/wp-admin/js/password-strength-meter.min.js?ver=5.8" id="password-strength-meter-js"></script>
-<script src="https://skillvire.ga/wp-includes/js/underscore.min.js?ver=1.8.3" id="underscore-js"></script>
+<script src="https://skillvire.ga/wp-admin/js/password-strength-meter.min.js?ver=5.8.2" id="password-strength-meter-js"></script>
+<script src="https://skillvire.ga/wp-includes/js/underscore.min.js?ver=1.13.1" id="underscore-js"></script>
 <script id="wp-util-js-extra">
 var _wpUtilSettings = {"ajax":{"url":"\/skillvire\/wp-admin\/admin-ajax.php"}};
 </script>
-<script src="https://skillvire.ga/wp-includes/js/wp-util.min.js?ver=5.8" id="wp-util-js"></script>
+<script src="https://skillvire.ga/wp-includes/js/wp-util.min.js?ver=5.8.2" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"3a0d46f14c"};
+var userProfileL10n = {"user_id":"0","nonce":"3b229d3153"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {
@@ -96,7 +96,7 @@ var userProfileL10n = {"user_id":"0","nonce":"3a0d46f14c"};
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", { "locale_data": { "messages": { "": {} } } } );
 </script>
-<script src="https://skillvire.ga/wp-admin/js/user-profile.min.js?ver=5.8" id="user-profile-js"></script>
+<script src="https://skillvire.ga/wp-admin/js/user-profile.min.js?ver=5.8.2" id="user-profile-js"></script>
 			<script>
 			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
 			</script>
