@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="https://skillvire.ga/2021/03/11/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>https://skillvire.ga/2021/03/11/hello-world/</link>
+	<atom:link href="https://skillvire.gq/2021/03/11/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://skillvire.gq/2021/03/11/hello-world/</link>
 	<description>Online Education &#38; Research Guidance</description>
 	<lastBuildDate>Thu, 11 Mar 2021 14:34:13 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 </channel>
 </rss>

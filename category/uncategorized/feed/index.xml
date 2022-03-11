@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; SKILLVIRE</title>
-	<atom:link href="https://skillvire.ga/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>https://skillvire.ga</link>
+	<atom:link href="https://skillvire.gq/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://skillvire.gq</link>
 	<description>Online Education &#38; Research Guidance</description>
 	<lastBuildDate>Thu, 11 Mar 2021 14:34:13 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,31 +18,31 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
-	<url>https://skillvire.ga/wp-content/uploads/2021/07/cropped-siteicon-32x32.png</url>
+	<url>https://skillvire.gq/wp-content/uploads/2021/07/cropped-siteicon-32x32.png</url>
 	<title>Uncategorized &#8211; SKILLVIRE</title>
-	<link>https://skillvire.ga</link>
+	<link>https://skillvire.gq</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>https://skillvire.ga/2021/03/11/hello-world/</link>
-					<comments>https://skillvire.ga/2021/03/11/hello-world/#respond</comments>
+		<link>https://skillvire.gq/2021/03/11/hello-world/</link>
+					<comments>https://skillvire.gq/2021/03/11/hello-world/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 11 Mar 2021 14:34:13 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://skillvire.ga/?p=1</guid>
+		<guid isPermaLink="false">https://skillvire.gq/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://skillvire.ga/2021/03/11/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://skillvire.gq/2021/03/11/hello-world/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
