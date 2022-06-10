@@ -5,11 +5,11 @@
 	<title>Log In &lsaquo; SKILLVIRE &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="dashicons-css" href="https://skillvire.gq/wp-includes/css/dashicons.min.css?ver=5.9.2" media="all">
-<link rel="stylesheet" id="buttons-css" href="https://skillvire.gq/wp-includes/css/buttons.min.css?ver=5.9.2" media="all">
-<link rel="stylesheet" id="forms-css" href="https://skillvire.gq/wp-admin/css/forms.min.css?ver=5.9.2" media="all">
-<link rel="stylesheet" id="l10n-css" href="https://skillvire.gq/wp-admin/css/l10n.min.css?ver=5.9.2" media="all">
-<link rel="stylesheet" id="login-css" href="https://skillvire.gq/wp-admin/css/login.min.css?ver=5.9.2" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://skillvire.gq/wp-includes/css/dashicons.min.css?ver=6.0" media="all">
+<link rel="stylesheet" id="buttons-css" href="https://skillvire.gq/wp-includes/css/buttons.min.css?ver=6.0" media="all">
+<link rel="stylesheet" id="forms-css" href="https://skillvire.gq/wp-admin/css/forms.min.css?ver=6.0" media="all">
+<link rel="stylesheet" id="l10n-css" href="https://skillvire.gq/wp-admin/css/l10n.min.css?ver=6.0" media="all">
+<link rel="stylesheet" id="login-css" href="https://skillvire.gq/wp-admin/css/login.min.css?ver=6.0" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
 	<link rel="icon" href="https://skillvire.gq/wp-content/uploads/2021/07/cropped-siteicon-32x32.png" sizes="32x32">
@@ -27,13 +27,13 @@
 		<form name="loginform" id="loginform" action="https://skillvire.gq/wp-login.php" method="post">
 			<p>
 				<label for="user_login">Username or Email Address</label>
-				<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off">
+				<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off" autocomplete="username">
 			</p>
 
 			<div class="user-pass-wrap">
 				<label for="user_pass">Password</label>
 				<div class="wp-pwd">
-					<input type="password" name="pwd" id="user_pass" class="input password-input" value="" size="20">
+					<input type="password" name="pwd" id="user_pass" class="input password-input" value="" size="20" autocomplete="current-password">
 					<button type="button" class="button button-secondary wp-hide-pw hide-if-no-js" data-toggle="0" aria-label="Show password">
 						<span class="dashicons dashicons-visibility" aria-hidden="true"></span>
 					</button>
@@ -65,38 +65,24 @@ var _zxcvbnSettings = {"src":"https:\/\/skillvire.gq\/wp-includes\/js\/zxcvbn.mi
 <script src="https://skillvire.gq/wp-includes/js/zxcvbn-async.min.js?ver=1.0" id="zxcvbn-async-js"></script>
 <script src="https://skillvire.gq/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9" id="regenerator-runtime-js"></script>
 <script src="https://skillvire.gq/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
-<script src="https://skillvire.gq/wp-includes/js/dist/hooks.min.js?ver=1e58c8c5a32b2e97491080c5b10dc71c" id="wp-hooks-js"></script>
-<script src="https://skillvire.gq/wp-includes/js/dist/i18n.min.js?ver=30fcecb428a0e8383d3776bcdd3a7834" id="wp-i18n-js"></script>
+<script src="https://skillvire.gq/wp-includes/js/dist/hooks.min.js?ver=c6d64f2cb8f5c6bb49caca37f8828ce3" id="wp-hooks-js"></script>
+<script src="https://skillvire.gq/wp-includes/js/dist/i18n.min.js?ver=ebee46757c6a411e38fd079a7ac71d94" id="wp-i18n-js"></script>
 <script id="wp-i18n-js-after">
 wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 </script>
 <script id="password-strength-meter-js-extra">
 var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
 </script>
-<script id="password-strength-meter-js-translations">
-( function( domain, translations ) {
-	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
-	localeData[""].domain = domain;
-	wp.i18n.setLocaleData( localeData, domain );
-} )( "default", { "locale_data": { "messages": { "": {} } } } );
-</script>
-<script src="https://skillvire.gq/wp-admin/js/password-strength-meter.min.js?ver=5.9.2" id="password-strength-meter-js"></script>
-<script src="https://skillvire.gq/wp-includes/js/underscore.min.js?ver=1.13.1" id="underscore-js"></script>
+<script src="https://skillvire.gq/wp-admin/js/password-strength-meter.min.js?ver=6.0" id="password-strength-meter-js"></script>
+<script src="https://skillvire.gq/wp-includes/js/underscore.min.js?ver=1.13.3" id="underscore-js"></script>
 <script id="wp-util-js-extra">
 var _wpUtilSettings = {"ajax":{"url":"\/skillvire\/wp-admin\/admin-ajax.php"}};
 </script>
-<script src="https://skillvire.gq/wp-includes/js/wp-util.min.js?ver=5.9.2" id="wp-util-js"></script>
+<script src="https://skillvire.gq/wp-includes/js/wp-util.min.js?ver=6.0" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"e93ce7e369"};
+var userProfileL10n = {"user_id":"0","nonce":"4c641e5d2c"};
 </script>
-<script id="user-profile-js-translations">
-( function( domain, translations ) {
-	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
-	localeData[""].domain = domain;
-	wp.i18n.setLocaleData( localeData, domain );
-} )( "default", { "locale_data": { "messages": { "": {} } } } );
-</script>
-<script src="https://skillvire.gq/wp-admin/js/user-profile.min.js?ver=5.9.2" id="user-profile-js"></script>
+<script src="https://skillvire.gq/wp-admin/js/user-profile.min.js?ver=6.0" id="user-profile-js"></script>
 			<script>
 			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
 			</script>
