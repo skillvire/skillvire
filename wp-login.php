@@ -80,7 +80,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/skillvire\/wp-admin\/admin-ajax.php"}};
 </script>
 <script src="https://skillvire.gq/wp-includes/js/wp-util.min.js?ver=6.0" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"4c641e5d2c"};
+var userProfileL10n = {"user_id":"0","nonce":"a91006c4b6"};
 </script>
 <script src="https://skillvire.gq/wp-admin/js/user-profile.min.js?ver=6.0" id="user-profile-js"></script>
 			<script>
